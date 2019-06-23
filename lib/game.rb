@@ -47,4 +47,7 @@ def winner
   end
 end
 
+def turn
+end
+
 end
