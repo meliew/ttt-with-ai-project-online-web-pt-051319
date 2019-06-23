@@ -48,7 +48,7 @@ def winner
 end
 
 def turn
-  "which space would you like"
+  puts "which space would you like"
   answer = gets.chomp
 end
 
